@@ -21,6 +21,7 @@
                     <thead>
                         <tr>
                             <th colspan="2">Saisir votre commande </th>
+                            <p>Bonjour test </p>
                            
                         </tr>
                     </thead>
