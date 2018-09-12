@@ -13,6 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        
         <div class=" container">
             <form action="ControlCommande">
                 <div class="alert-danger">${requestScope.errorMessage}                </div>
@@ -55,6 +56,14 @@
                         <tr>
                             
                             <td><input type="radio" name="glacage" value="vanille" />Vanille</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><input type="submit" value="Envoyer" class="alert-dismissible" /></td>
+                            
+                        </tr>
+                        <tr>
+                            <td colspan="2"><input type="submit" value="Envoyer" class="alert-dismissible" /></td>
+                            
                         </tr>
                         <tr>
                             <td colspan="2"><input type="submit" value="Envoyer" class="alert-dismissible" /></td>
