@@ -22,6 +22,7 @@
                         <tr>
                             <th colspan="2">Saisir votre commande </th>
                             <p>Bonjour test </p>
+                            <p>une AUTRE COMMIT</p>
                            
                         </tr>
                     </thead>
